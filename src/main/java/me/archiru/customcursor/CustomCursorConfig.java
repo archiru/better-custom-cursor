@@ -29,7 +29,7 @@ import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 import net.runelite.client.config.Range;
 
-@ConfigGroup("customcursor")
+@ConfigGroup("bettercustomcursor")
 public interface CustomCursorConfig extends Config
 {
 	@ConfigItem(
